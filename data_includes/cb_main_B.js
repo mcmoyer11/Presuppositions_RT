@@ -204,7 +204,7 @@ newTrial("end",
         .center()
         .print()
     ,
-    newText("<p><a href='https://expt.pcibex.net/ibexexps/mcmoyer11/Q-RT/experiment.html'>Click here for Part 3/3.</a></p>")
+    newText("<p><a href='https://expt.pcibex.net/ibexexps/mcmoyer11/Q-MS/experiment.html'>Click here for Part 3/3.</a></p>")
         .center()
         .print()
     ,
